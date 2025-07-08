@@ -41,6 +41,21 @@ It is used because it gives good accuracy and works well for classification prob
 - Seaborn
 - Matplotlib
 
+## 💡 Feature Highlights
+
+- ✅ `UsingIP` → Website has IP address instead of domain.
+- ✅ `LongURL` → Is the URL suspiciously long?
+- ✅ `PrefixSuffix-` → Uses hyphen in domain name?
+- ✅ `HTTPS` → Has valid HTTPS or not?
+- ✅ `PageRank`, `GoogleIndex` → Reputation factors
+
+## 🚀 Future Scope
+
+- Use Deep Learning models (like CNN) for better prediction.
+- Deploy as a web application.
+- Integrate real-time phishing detection in browsers.
+
+
 ## 🙋‍♀️ Made By
 
 **Risha Gupta**  
